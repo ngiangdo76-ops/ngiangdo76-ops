@@ -1,27 +1,27 @@
 # 👋 Hi, I'm Giang
 
-🎓 I am an Information Systems student
-💻 I am interested in web development
-🚀 I am currently learning PHP, Laravel, and React
+🎓 Information Systems Student
+💻 Passionate about Web Development
+🚀 Currently learning **PHP, Laravel, React**
 
 ---
 
-## 🌱 About Me
+## 🌟 About Me
 
 I am not an expert programmer yet, but I am always learning and improving my skills every day.
-I enjoy building simple web applications and exploring new technologies.
+I enjoy building web applications and exploring new technologies to grow myself.
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-* HTML, CSS, JavaScript
-* PHP, Laravel
-* MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react" />
+</p>
 
 ---
 
-## 📌 Goals
+## 🎯 Goals
 
 * Become a Backend Developer
 * Improve problem-solving skills
@@ -29,20 +29,19 @@ I enjoy building simple web applications and exploring new technologies.
 
 ---
 
-## 📂 Projects
+## 📫 Contact Me
 
-* Graduation Project (KLTN) – Web Application
-* Personal practice projects
-
----
-
-## 📫 Contact
-
-* Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* GitHub: https://github.com/yourusername
+📧 Email: **[ngiangdo76@gmail.com](mailto:ngiangdo76@gmail.com)**
+📱 Phone: **0974167648**
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ngiangdo76-ops&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+✨ *Always learning, always improving.*
