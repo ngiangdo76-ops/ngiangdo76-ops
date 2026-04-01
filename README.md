@@ -2,7 +2,7 @@
 
 🎓 Information Systems Student
 💻 Passionate about Web Development
-🚀 Currently learning **PHP, Laravel, React**
+🚀 Currently learning PHP, Laravel, React
 
 ---
 
