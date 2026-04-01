@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Giang
 
-🎓 Information Systems Student
-💻 Passionate about Web Development
-🚀 Currently learning **PHP, Laravel, React**
+** 🎓 Information Systems Student** 
+** 💻 Passionate about Web Development** 
+** 🚀 Currently learning **PHP, Laravel, React**
 
 ---
 
