@@ -3,9 +3,6 @@
 
 ## 🌟 About Me
 
-I am not an expert programmer yet, but I am always learning and improving my skills every day.
-I enjoy building web applications and exploring new technologies to grow myself.
-
 ---
 
 ## 🛠 Tech Stack
